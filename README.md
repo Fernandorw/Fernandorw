@@ -1,8 +1,8 @@
-- 👋 Olá, me chamo Fernando, mas o meu "code"name é Ferdis.
+- 👋 Olá, me chamo Fernando, tenho 34 anos, o meu "code"name é Ferdis.
 - 👀 Atualmente muito interessado em Html, CSS e Javascript.
-- 🌱 Estudando os princípios do Frontend.
+- 🌱 Estudando as estruturas do Frontend, e assim por diante.
 - 💞️ Estou a disposição para ajudar a colaborar com todos dentro de nossa comunidade.
-- 📫 Escreva pra mim, fique a vontade! 
+- 📫 Vamos conversar Coders!
 
 <!---
 Fernandorw/Fernandorw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
