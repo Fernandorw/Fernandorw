@@ -1,5 +1,5 @@
 - 👋 Olá, me chamo Fernando, tenho 35 anos, e meu condenome é Nando.
-- 👀 Estudando Análise e Desenvolvimento de Sistemas e Desenvolvedor Web Frontend - Html, CSS e Javascript.
+- 👀 Estudante em Desenvolvedor Web Frontend - Html, CSS e Javascript.
 - 🌱 Estudando as estruturas do Frontend, e assim por diante.
 - 💞️ Estou a disposição para ajudar a colaborar com todos dentro de nossa comunidade.
 - 📫 Vamos conversar Coders!
